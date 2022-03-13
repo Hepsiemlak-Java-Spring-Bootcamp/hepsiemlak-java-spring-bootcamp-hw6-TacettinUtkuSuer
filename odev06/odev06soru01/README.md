@@ -14,10 +14,10 @@ Test covered oranları aşağıdadır.
 
 AuthServiceTest
 
-![AuthServiceTest](//sekiller/AuthServiceTest.png)
+![AuthServiceTest](sekiller/AuthServiceTest.png)
 
 
 
 BannerServiceTest
 
-![BannerServiceTest](//sekiller/BannerServiceTest.PNG)
+![BannerServiceTest](sekiller/BannerServiceTest.PNG)
